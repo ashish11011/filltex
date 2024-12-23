@@ -1,0 +1,194 @@
+[{
+  "_id": {
+    "$oid": "67691ac89758382519990c13"
+  },
+  "name": "asdf",
+  "moq": "asdf",
+  "material": "asdf",
+  "color": "dsfasd",
+  "filling": "asdfa",
+  "pattern": "asdfasdfasdfasddf",
+  "brand": "asdfasdfasdf",
+  "washCare": "asdf",
+  "category": {
+    "$oid": "64bdfc92e3f2078bc25c1a02"
+  },
+  "origin": "dfasdf",
+  "description": [
+    "sad fasd fasd f",
+    "d fasdfasdfasdf asdfsdf asdfasd f"
+  ],
+  "productionCapacity": "adfs",
+  "deliveryTime": "sadf s",
+  "images": [
+    "https://s3.ap-south-1.amazonaws.com/cozzy.corner/filltex/a060288a-9f74-41b3-98e4-f83cfcbd7dad.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-12-23T08:09:44.252Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-23T08:09:44.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67691aef9758382519990c15"
+  },
+  "name": "sdf asd fsa",
+  "moq": "adfasdfasds",
+  "material": "fasdfasdf",
+  "color": "asdf asdfasdf",
+  "filling": "asdfasfd",
+  "pattern": "asdfasdfasdfasdfasdf",
+  "brand": "sdfasdf",
+  "washCare": "asdfasdf",
+  "category": {
+    "$oid": "64bdfc92e3f2078bc25c1a03"
+  },
+  "origin": "sadfasdf",
+  "description": [
+    "dfasf asfasfa sdf",
+    "asdfasdfasdfasdfas fasd fasfa sf"
+  ],
+  "productionCapacity": "asdfasdfas",
+  "deliveryTime": "dfasfasdfasfasfasdfsd",
+  "images": [
+    "https://s3.ap-south-1.amazonaws.com/cozzy.corner/filltex/ee28a566-bf87-4530-b3a1-770a43d1423e.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-12-23T08:10:23.198Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-23T08:10:23.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67694f1d9758382519990c26"
+  },
+  "name": "",
+  "moq": "a",
+  "material": "a",
+  "color": "a",
+  "filling": "a",
+  "pattern": "a",
+  "brand": "a",
+  "washCare": "a",
+  "category": {
+    "$oid": "64bdfc92e3f2078bc25c1a01"
+  },
+  "origin": "a",
+  "description": [
+    "a"
+  ],
+  "productionCapacity": "a",
+  "deliveryTime": "a",
+  "images": [
+    "https://s3.ap-south-1.amazonaws.com/cozzy.corner/filltex/ff2b0c66-dd2d-47f3-938f-d77aa6e6fd3f.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-12-23T11:53:01.113Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-23T11:53:01.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67694f8b9758382519990c28"
+  },
+  "name": "",
+  "moq": "a",
+  "material": "a",
+  "color": "a",
+  "filling": "a",
+  "pattern": "a",
+  "brand": "a",
+  "washCare": "a",
+  "category": {
+    "$oid": "64bdfc92e3f2078bc25c1a01"
+  },
+  "origin": "a",
+  "description": [
+    "a"
+  ],
+  "productionCapacity": "a",
+  "deliveryTime": "a",
+  "images": [
+    "https://s3.ap-south-1.amazonaws.com/cozzy.corner/filltex/ff2b0c66-dd2d-47f3-938f-d77aa6e6fd3f.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-12-23T11:54:51.838Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-23T11:54:51.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676950869758382519990c36"
+  },
+  "name": "",
+  "moq": "",
+  "material": "",
+  "color": "",
+  "filling": "",
+  "pattern": "",
+  "brand": "",
+  "washCare": "",
+  "category": {
+    "$oid": "64bdfc92e3f2078bc25c1a01"
+  },
+  "origin": "",
+  "description": [
+    "a"
+  ],
+  "productionCapacity": "",
+  "deliveryTime": "",
+  "images": [
+    "https://s3.ap-south-1.amazonaws.com/cozzy.corner/filltex/aa4a3330-4d99-4d71-9ac7-34d57dfb9c1a.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-12-23T11:59:02.848Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-23T11:59:02.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676950f69758382519990c3d"
+  },
+  "name": "",
+  "moq": "",
+  "material": "",
+  "color": "",
+  "filling": "q",
+  "pattern": "q",
+  "brand": "q",
+  "washCare": "q",
+  "category": {
+    "$oid": "64bdfc92e3f2078bc25c1a01"
+  },
+  "origin": "q",
+  "description": [
+    "q"
+  ],
+  "productionCapacity": "q",
+  "deliveryTime": "q",
+  "images": [
+    "https://s3.ap-south-1.amazonaws.com/cozzy.corner/filltex/1c240bcd-8ea9-4911-956d-6d7697d1cc5d.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-12-23T12:00:54.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-23T12:00:54.555Z"
+  },
+  "__v": 0
+}]
